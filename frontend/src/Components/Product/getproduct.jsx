@@ -14,12 +14,12 @@ export default function Product() {
   const [products, setProducts] = useState([]);
 
   const fetchProducts = async () => {
-    const res = await axios.get("http://localhost:8081/products");
+    const res = await axios.get("https://my-mobile-galaxy.onrender.com/products");
     setProducts(res.data.products);
   };
 
   const handleDelete = async (id) => {
-    await axios.delete(`http://localhost:8081/products/${id}`);
+    await axios.delete(`https://my-mobile-galaxy.onrender.com/products/${id}`);
     alert("Product Deleted")
     fetchProducts();
   };
