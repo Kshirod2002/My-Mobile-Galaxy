@@ -55,7 +55,7 @@ export default function Product() {
             <tr key={p._id}>
               <td>
                 <img 
-               src={`http://localhost:8081${p.image?.url}`} alt="product"
+               src={`https://my-mobile-galaxy.onrender.com${p.image?.url}`} alt="product"
               width="60px" />
               <div className='delete'>
                  <button onClick={() => handleDelete(p._id)} className="btn btn-danger btn-sm ms-2">Delete</button></div>  
