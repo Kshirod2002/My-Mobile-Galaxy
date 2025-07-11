@@ -64,7 +64,7 @@ export const Iphone = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -213,7 +213,7 @@ export  const OnePlus = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -360,7 +360,7 @@ export  const Samsung = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -506,7 +506,7 @@ export  const Xiaomi = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -653,7 +653,7 @@ export  const Realme = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -799,7 +799,7 @@ export  const Pixel = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -945,7 +945,7 @@ export  const Motorola = () => {
     };
 
     try {
-      const res = await axios.post("http://localhost:8081/add-to-cart", {
+      const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
         userId,
         product: productToSend,
       });
@@ -1091,7 +1091,7 @@ export  const Vivo = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -1237,7 +1237,7 @@ export  const Oppo = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -1383,7 +1383,7 @@ export  const Asus = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
@@ -1529,7 +1529,7 @@ export  const Nothing = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
