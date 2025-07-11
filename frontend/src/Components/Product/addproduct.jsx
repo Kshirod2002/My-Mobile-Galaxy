@@ -39,7 +39,7 @@ export default function Addproduct() {
     }
 
     try {
-      await axios.post("http://localhost:8081/add", formData);
+      await axios.post("https://my-mobile-galaxy.onrender.com/add", formData);
       navigate("/products");
       alert("New product added Suceesfully")
     } catch (error) {
