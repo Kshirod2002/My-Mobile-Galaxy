@@ -9,7 +9,7 @@ const CartProduct = ({ product, dispatch }) => {
   const handleRemove = async () => {
     try {
     
-    await axios.delete(`http://localhost:8081/cart/${userId}/${product.productId.toString()}`);
+    await axios.delete(`https://my-mobile-galaxy.onrender.com/cart/${userId}/${product.productId.toString()}`);
 
       dispatch({ type: "Remove", id: product.productId });
     } catch (err) {
