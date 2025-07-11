@@ -1,0 +1,270 @@
+{
+  "wirelessspeakers": [
+    {
+      "productId":"363",
+      "name": "Amazon Echo Dot ",
+      "brand": "Amazon",
+      "price": 5499.00,
+      "image": "data:image/webp;base64,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",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"364",
+      "name": "JBL Flip 6 ",
+      "brand": "JBL",
+      "price": 8999.000,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQrrU70YLj6hJshRxQ7qAuyImpF1spjg28U2U-aU4Reu_Xqf9aK43nZV79jlsbDHmgoRwhDNL3Ol8v_oatZ8VIr9lvDL7TSH-KafsgikHqVkx3ykS-QY_cqg2kiEE-d0RC7bl2U-cQ&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"365",
+      "name": "JBL Go 4",
+      "brand": "JBL",
+      "price": 3999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0IS08z9XpMc985aHnxFqcpaG2nLAOtkQtDozJnbbqbgvcHLajGmjR9pRG88oVt_9jlxEfM7RnA-cuWT-gu3eBCrOXDe5qUgSIXfhw0cb7R05_khtqXOWWnc027k__Yh3JjFhRfHA&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"366",
+      "name": "JBL Partybox 110",
+      "brand": "JBL",
+      "price": 24999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYUIJMakR2CzxG63tX6S0pvk8a-WKRPqeyKUGVLJcXBjRYWQR0He60_1c6WdN4t7gG6F_Bpm3k_bVc0hpLsyhPqdpUiqbJqooWiwbL1N9UlMAGPH3jCiyWePkILHgYjfeAC65efg&usqp=CAc",
+      "specs": { "type": "Wireless",  "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"367",
+      "name": "Marshall Emberton ",
+      "brand": "Marshall",
+      "price": 14999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdy0FroM4JREE4z__lSNjOADUQXa2cXBtCOarl7aP9lN3kxbWYB1UNUZvesNvghS4pamA_12vQh9GunNUAlKfBR2Z7E991ZRvNNxK4GxXAJ8dp3YAftvqNVR_vN70LYBWDJwEfgqM&usqp=CAc",
+      "specs": { "type": "Wireless",  "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"368",
+      "name": "Sony SRS-XB100",
+      "brand": "Sony",
+      "price": 3999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRaUwqk6L3zgTudDbL3ZZyGZ4vtHSnACzFFlxb4vqSfkaoyFb1ZbMjxeKPUyRGSP4RObfFdhBBCYLn7i3HdAgkqUbDqyTGDDHlyzF9-4s9irwR6c1vNyvr_G2zZbmMohPIZc3dmcwth&usqp=CAc",
+      "specs": { "type": "Wireless",  "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"369",
+      "name": "Roam 2",
+      "brand": "Mivi",
+      "price": 799.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgLBCAByvUuDjXjlT3X8GRnSA6YJEOzCAqq-H3j6cG7UVrbSBiWsfMhUpfseg3RQ7TiRzPsuTrU6v7RMJCQ3nP1-ue0vwL3VJ0rK_QzzXBbu2cpP61RzBy",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"370",
+      "name": "Boat Stone 1450",
+      "brand": "Boat",
+      "price": 3299.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_bX1d7HdQQac4ymigLbjohsFPQkixq0S0H1BcQnImNdHDg5mUyK9-GfWb4sfp_3o483HEwWSQzqmiIyoWzXNkJUASxPFKn5spZVTpqgMZuW9HLB4kkX4FRQ",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"371",
+      "name": "Noise Vibe 2 5W",
+      "brand": "Noise",
+      "price": 1299.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnXTF64x4RBczlkj1aOX9H_3JRFtxVS95hJh2SNdUWg8gTQLNdvmLpWngjEIO6Dx9g-ZzEvSOd5zLNuEvcCR70vUJMyQUTMSnvrE2jOlfWmBgOUusyD8AHfw",
+      "specs": { "type": "Wireless",  "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"372",
+      "name": "Zebronics Zeb_Astra 20",
+      "brand": "Zebronics",
+      "price": 799.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAgPz7qBVVHjKveoqVAmCMKYvqTsQnXH0VrlHhhSYuM3EPQ1k_utqmaYJzf8MNCTiGnnvKT0r-N7LB2gcGZMJwRcGUACDk0jLTSyZx5U-vSs4pbDcDp5uYaus",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    }
+  ],
+   "wirelessheadphones": [
+    {
+      "productId":"373",
+      "name": "Sony WH-CH520",
+      "brand": "Sony",
+      "price": 3999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSs5-Ir8Ow-q3vfnMUghaJOBszuaRoX_LER6DVXi5x6j-AQXa29MhkUhCgcB3fuOvei37hP5Z54SQKZRdnylorjghMEY3pPIYzhVQKP3FioYNuCgdWuEiMxs0gT8YTJ7Z-PEyiLAw&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"374",
+      "name": "Buy Razer Barracuda X",
+      "brand": "Sony",
+      "price": 5499.000,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0k4F6TRqa_wWu4DcB61AMuT7JSdfAyX6moZVB7WnuJwJptf6Mkfevq4mv0o_G4umv-1wkGQzl_5vArxSxIl2LAUhT35gdfN8YoUbJ1-PbdSllkuju-FV9jPfuD7uQbanfqKa_8w&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"375",
+      "name": "JBL Tune 770NC ",
+      "brand": "JBL",
+      "price": 5990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQeVmFMHTTSBI1wk1Xyn-zpRsFCnw9yiWPG5vbLjUrLq-kw_DcvOxHcKeUbW4WvsKNhCGaTXaPSWm_w_BhIrMXfypXI1Yqk6KJOEFOMZmBYW8_namXoxz8RIy6h9nrYIgB-v18Mfw&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"376",
+      "name": "Boat Rockerz 450 ",
+      "brand": "Boat",
+      "price": 1999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRqs8bZgnIB8pYqt9-26YJ2UbB-wvRoQJajFE6WcgurgaKWL81upSbY4FbCqW0w6auMKhaM3XtfnKHXRxV7lBGmQjVKms1EgimIYgzEMDKYwXuoLxWjQofS1JXMMzVYv1mFWgrLY-M&usqp=CAc",
+      "specs": { "type": "Wireless",  "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"377",
+      "name": "Sony ULT Wear WH-ULT900N",
+      "brand": "Sony",
+      "price": 15999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSj-y26gM2UC5DUyV0x-D-kn1jGcRSQJlNhkOmx9_0H8htmbqD_Z9apxkcey1_z-foBUshLXCa7QaV17ZYpPS2Pov-k0R-qE1aI5wHLNO_hfuznO2g_LlqGquDGzsG6u_LrJr_ECw&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"378",
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "price": 999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQbKCopqwJSFGdqLRXJW31cj0miHGIDWru9ptWuUYdz4DqpB3VDvpHOGBs3jiLcBFq6Uhmy1A-ZIvBtZUvq_JMx47FxOF9Z1bTgrii120Q-0-KmVXqPopwSuB1D6g8P9EeD0NSY1Y&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"379",
+      "name": "Marshall Major IV ",
+      "brand": "Marshall",
+      "price": 9999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-9kL_EJ0tOsJQ_qT3-j3hulWdJCKZGI4MHrd4398kQwSEhUIarBtmIKPfdkpPY6j236SjnAiTaWEQ7EnWkc2h7foFEPcH4VH57AMOmp60K3qPJKRq-78RvYcCm2Y6NtJGsmU2xTPq&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"380",
+      "name": "Sonos Ace",
+      "brand": "Sonos",
+      "price": 39499.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0QMjJP410nGuEDVwkddvVcH0kM56llhuitYuwewxAxxEVdbALiR2radAFsWBR19_qYSIlyy6hXZTqGfg9rALUtlPuZz-VNpMQySAYibmJv95UB5aAuxm8Cy3ftUR6JOR9y5nCUzc&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"381",
+      "name": "Aftersokz Open Run Pro Bone",
+      "brand": "Aftershokz",
+      "price": 17141.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU6DH9C3E35rVcuH0Sp-CbvuEYngAZJkTE0pTneQb-9A-TJdvRvVLUSaqrKdSp_fLidpdChB8Hd582A32RKxXofqfZg3t7weXMva2HipZ2b02K8ZPwzSaxdW89gGjTl57PF1NWN_4-uNc&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"382",
+      "name": "Boat Rockerz 650 Pro ",
+      "brand": "Boat",
+      "price": 2799.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFKrrqeK6BSnGj7GS541PteY_5ANDF8rMcou3ixEwq5hah2cTPd8w8kQTUo0TbianGy7aSQqxqd3zEN7-p9cwzAJxKDl8fDFscau2d0j-1kUpWNmJmSlG7heBUPkqiuxxZVR9380g&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"383",
+      "name": "Sony WH-CH720N",
+      "brand": "Sony",
+      "price": 9689.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLbfmD1AHYFwuPtS_dbNYLoZzx-cC58eCuUc0yEoc35Of7zPkw6CHbqgAshJplsZW5_zbMQphdptNENUDRuWtzCjXoxyCiftzBRStlIqJUsP36RJq0AYUDIR_EAJQsJDBnKDb3HA&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"384",
+      "name": "Boat Rockerz 480 ",
+      "brand": " Boat",
+      "price": 1599.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRU1rVqd38QSjsLG0TdqtvBlOn-3BEF6m6zwbBoo6ZwLiZlgdroLv7OEI_YsEocenFBZOfVdjev0-f97UtATJCAN3DR3Zt8m9Txtza--w6bkqt6mRwhqz5SuzR4nLNdr2udqx4q6LA&usqp=CAc",
+      "specs": { "type": "Wireless", "noiseCancellation": "No" },
+      "quantity":1
+    }      
+  ],
+  "wirelessearphones": [
+    {
+      "productId":"385",
+      "name": "Oneplus Nord Buds 2r",
+      "brand": "Oneplus",
+      "price": 1599.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2en5pMmdtJ-FOQz2IDaCGtyk_ALf3b8agQY63laGs0KtakCxS-3ws7hLhr8fmfmj0WD6t-2F-Roc4I_GSzmiVqRzv5-YfF_lhhce6juvolgylAKUvkAzgbnD0-6I4NBEvhLM5_kA&usqp=CAc",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"386",
+      "name": "Oneplus Nord Buds 3 Pro",
+      "brand": "Oneplus",
+      "price": 2699.00,
+      "image": "data:image/webp;base64,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",
+      "specs": { "type": "Wireless", "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"387",
+      "name": "Samsung Galaxy Buds 3pro",
+      "brand": "Samsung",
+      "price": 18499.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXfSnypxnuF07V9BxQ3Jhqz7qVtabjdnRResQsuRkvErDMRggIgIvpXVTG4Y3H7qiyvRkNn5ZAWGSWlHVIkEwQctvkS4uiXRoSiux2hMnG5RRSTwMYtMzD",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"388",
+      "name": "Honeywell Moxie V500 ",
+      "brand": "Honeywell",
+      "price": 849.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZ6-ljRWP9XP9HTUeKJRrrSxC-r-XAaeAqZjPxuKvX6TOBIsV9vcCZ10Xg2n4Af_HrfzCJul0-ecrEDBPuWiRQHaad6M9TQkxEQHwxnn7N1KN54d6WdGJWOlgTVKqAc_O7w2Z0fmJ46Q&usqp=CAc",
+      "specs": { "type": "Wired",  "noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    {
+      "productId":"389",
+      "name": "Samsung Galaxy Buds ",
+      "brand": "Samsung",
+      "price": 15499.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbmiNWR61867UaSyu_Ud9pjrUUs2ltIvSrUIiKfPPTn4Rrv31fvMfllMkwO4LLjFOGE_wvonqatZm6zHys2ycr7kO_pZAOD1ONU9GSBkb1U90xBesr65c7vR0",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    },
+    { 
+      "productId":"390",
+      "name": "Samsung Galaxy Buds 3 Pro",
+      "brand": "Samsung",
+      "price":16999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIAk2dGjDFkUOyVUvadH72iRUvr047KUey2ZcejN8mRwjx8yqHDOva1PcT5tYdBHTpMwukYtoZYmIbMCT_IU6GqEd1OIqbA9T6-ylA_mLyJk6TQ9a7G-NVtA",
+      "specs": { "type": "Wireless","noiseCancellation": "No" },
+      "quantity":1
+    },
+    {
+      "productId":"391",
+      "name": "Samsung Galaxy Buds ",
+      "brand": "Samsung",
+      "price": 9499.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrakZzsILeObyPu8er3EHY-ew6LzNQfkmgRriLND-0JQh7eOomTOnO-lQN5s_e8kqyHrtoyOipfLKmI7A4LJKEcjZOXMmOVofHL3MmxZCo0GUTcGzaDa5L",
+      "specs": { "type": "Wireless","noiseCancellation": "Yes" },
+      "quantity":1
+    }
+      
+  ]
+}

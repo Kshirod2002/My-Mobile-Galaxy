@@ -1,0 +1,2186 @@
+{
+  "iphones" : [
+    {
+      "productId":"24",
+      "name": "iPhone 16 ",
+      "brand": "Apple",
+      "color":"white",
+      "price": 79900.00,
+      "image": "data:image/jpeg;base64,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",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"25",
+      "name": "iPhone 16 pro max",
+      "brand": "Apple",
+      "color":"purple",
+      "price": 152900.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMWvzXY6SfaFV6nfAew25nkKDlkrCPAw94fWCrbEHyj4PsYtQFG-Ze-33D47ZWCJ0tDcLoYuGG9BsHrSg_XvPU7w5UFp-L-Gm50HQ0-_5cyyeu75--szfa",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"26",
+      "name": "iPhone 16 plus",
+      "brand": "Apple",
+      "color":"sky blue",
+      "price": 81990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhRV1QCYbClF0opDb57JV7K5N-Ri3MurULG4FVS-aytIw-iw2jkIrZzuoYp1Se9JBHyjuQaBGGgwMrf_HE_EnBu3zid_-vatLZli_-NaNvZLEqoDJNIOjbsNY",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"27",
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "color":"white",
+      "price": 61990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_S4iYZcF_hcRQJcr7U3UPFnBgEaqh0KKY_dc9_DQUFJNVVR7yCJG7jzjOSM-Wrs-_OLTlTGlko5YS4R61qmyZ5jQc6dU9ZetTn6WMS9KVTjL3xt4s8XbdSg",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"28",
+      "name": "iPhone 15 plus",
+      "brand": "Apple",
+      "color":"white",
+      "price": 66490.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkvL73WRgXARwTO9U_6x8h_VQtBOEQk3RRvXcCaKpsZzo2MUEGswysTJndTlMTgdPx0g8HkvKwYo2LY0qN1L0_R_SxMSUWIcfQwcXcp4NnmJrT0coDtC3S",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"29",
+      "name": "iPhone 14 pro",
+      "brand": "Apple",
+      "color":"white",
+      "price": 57999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHRdfqvu_bzqTDCX_6n3YO38EE85aQuiazKchkzAh1nGx6ru92I_wO_G0xEMUm5ov8oOxZvly0hKOnbl-bv1fedqykw2C-0XA5mAw8WpKLNXAr4qun7khF",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"30",
+      "name": "iPhone 16 pro",
+      "brand": "Apple",
+      "color":"white",
+      "price": 142900.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnRzmWDK_6eZRxb_DZYdaFotI6zYcUa3queD3bJMyqRPeIK-p7mLlGc9yWtpPfH_KCLxzBy2U65DCljw0F-BjoDcfRNwz5PO7h5PJf43LB",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"31",
+      "name": "iPhone 16e",
+      "brand": "Apple",
+      "color":"white",
+      "price": 59900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTriHacj0iRIYrLjsgm159FY8qhLniSRmLwAOEweSNgCDO5gL9Hl4KZCqBgVoAyyfBz07NgSLXcd6tImuF2vrNrCtFJrOJjmMGoJks91MM2taYBowimWV-CtA",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"32",
+      "name": "iPhone 13",
+      "brand": "Apple",
+      "color":"green",
+      "price": 60900.00,
+      "image": "https://m.media-amazon.com/images/I/61-r9zOKBCL.jpg",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"33",
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "color":"black",
+      "price": 22499.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJAPkj9VfMZcg7pUSG2sp-eGYHM5vTRau9-3eF_aEjBkTLegWu0-FHFw7paLNZPbZjJ3j7qwVrCerEleAGiIUtCO1WRV2aJne2nWklAJzoHIAc5UznjkK-GA",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"34",
+      "name": "iphone 14 pro",
+      "brand": "Apple",
+      "color":"black",
+      "price": 57999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOi4-RZ71tvD4Dy1DtiSkvLIU2mXTBpghh34c_QC8gP-czavqcH85SWvfOXW4uullapZ4ssZ-6rr69FG4rcifzoQKEVfKMiaLS56vUmaUC",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"35",
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "color":"white",
+      "price": 64900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_S4iYZcF_hcRQJcr7U3UPFnBgEaqh0KKY_dc9_DQUFJNVVR7yCJG7jzjOSM-Wrs-_OLTlTGlko5YS4R61qmyZ5jQc6dU9ZetTn6WMS9KVTjL3xt4s8XbdSg",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"36",
+      "name": "iPhone 14 pro",
+      "brand": "Apple",
+      "color":"white",
+      "price": 57999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHRdfqvu_bzqTDCX_6n3YO38EE85aQuiazKchkzAh1nGx6ru92I_wO_G0xEMUm5ov8oOxZvly0hKOnbl-bv1fedqykw2C-0XA5mAw8WpKLNXAr4qun7khF",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"37",
+      "name": "iphone 16e",
+      "brand": "Apple",
+      "color":"white",
+      "price": 59990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTriHacj0iRIYrLjsgm159FY8qhLniSRmLwAOEweSNgCDO5gL9Hl4KZCqBgVoAyyfBz07NgSLXcd6tImuF2vrNrCtFJrOJjmMGoJks91MM2taYBowimWV-CtA",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"38",
+      "name": "iPhone 14 plus",
+      "brand": "Apple",
+      "color":"white",
+      "price": 66999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVAbgDI5Ocvyqrj9RBNVhz8FlIzXx7TAmY_CX7fQ-kppwRUDVpwhrFCC3RouuJTG4EPzDcHfGY1Lu_juz5at75a-vzQ-L6xuMSGSSUyHoDvHOLyhs5TIzn",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"39",
+      "name": "iPhone 11 pro",
+      "brand": "Apple",
+      "color":"black",
+      "price": 105600.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTVWIgg_W68-9QoxKqUGPh0n3nfPxxALTrKtzfQVgw3V7DfOCqKrDZTzOgTGn6RV-JR4ShpoRtKCnY6wbPkITyI8VbTL3n",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"40",
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "color":"white",
+      "price": 51990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVAbgDI5Ocvyqrj9RBNVhz8FlIzXx7TAmY_CX7fQ-kppwRUDVpwhrFCC3RouuJTG4EPzDcHfGY1Lu_juz5at75a-vzQ-L6xuMSGSSUyHoDvHOLyhs5TIzn",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"41",
+      "name": "iPhone 13 pro ",
+      "brand": "Apple",
+      "color":"black",
+      "price": 43999.00,
+      "image": "https://zoneofdeals.com/wp-content/uploads/2025/03/13-pro-grey.jpg",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"42",
+      "name": "iPhone X",
+      "brand": "Apple",
+      "color":"white",
+      "price": 80000.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTriHacj0iRIYrLjsgm159FY8qhLniSRmLwAOEweSNgCDO5gL9Hl4KZCqBgVoAyyfBz07NgSLXcd6tImuF2vrNrCtFJrOJjmMGoJks91MM2taYBowimWV-CtA",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"43",
+      "name": "iPhone 13 mini",
+      "brand": "Apple",
+      "color":"maroon",
+      "price": 42999.00,
+      "image": "data:image/jpeg;base64,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",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"44",
+      "name": "iPhone 13 pro max",
+      "brand": "Apple",
+      "color":"white",
+      "price": 79499.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS90uoUqOztf_DBLA5JGqY7L9GYhMbxyU9YWinKQqGdFiCJxmMtLo8e4zyfXq4w4pRafXQZRZSwZdrPOIGXQQ23d7XhYTC5MF8zq4joJ4P8EmvLIb-PXpTD",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"45",
+      "name": "iPhone 13 mini",
+      "brand": "Apple",
+      "color":"maroon",
+      "price": 42999.00,
+      "image": "data:image/jpeg;base64,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",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"46",
+      "name": "iPhone 12 mini",
+      "brand": "Apple",
+      "color":"white",
+      "price": 26599.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUlA46Va3izXcb3q5TWnMrFswEnwjUBKhjh7P9kGcMHrfgLQw__jyyvzHq7wqS6losMk4P840cIcbPitkLkh-S6yEd_SxypG8XT2G6YJp_DDLprN1HgE0a",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"47",
+      "name": "iPhone XS",
+      "brand": "Apple",
+      "color":"white",
+      "price": 17999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSygUpLFe1paZdUNfFbCIhddD1CIUi9H2XEfOm456tjEIdAhDoCNL21mWH9MvunE7fXyvaMObJ3wmzn93N5nsJRiDD8_SaeBYv1tkmMjgY",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"48",
+      "name": "iPhone 11",
+      "brand": "Apple",
+      "color":"white",
+      "price": 48999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMQHboJjHNj-WGfG5zqHnoeTqD5nK4ZnZkXTPb1j9NOOIhN2MsOK_2EXIMJx3nuJC05mrptx0rC81Xul-xuelRcpg1CBm1T61feBwhq2wL",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  
+  "oneplus" : [
+    {
+      "productId":"49",
+      "name": "OnePlus 13R ",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 47998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4fuptPDO050Hk0eAILLNgISkojwaN2TbSi87y1Lf0zPf6Ort36J8ylzEit-GKlMGZbmMZXjsuarj2LbnW0dlGDXG_J8mL0TpCY3cmxnAye7AoMFR5lyb8G5r3EtQWa67gX_-21BVmPA&usqp=CAc ",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"50",
+      "name": "OnePlus Nord 4",
+      "brand": "OnePlus",
+      "color":"sky blue",
+      "price": 29498.00,
+      "image": "https://m.media-amazon.com/images/I/41R3ufWRt8L._SX300_SY300_QL70_FMwebp_.jpg",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"51",
+      "name": "OnePlus 13",
+      "brand": "OnePlus",
+      "color":"blue",
+      "price": 76990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmyZvQlQTPTS0cwJkpdfXNmxMVL_yWAdFxBBRyeduqMAj2ryqUWkjDZ72X2Gv4ThbzP-gZrkdZEyRm-E3yhfcNVbhGQZjB4Mu84w0A87sQV7y9yGZGNdOPXL-VtX4zO0oabfuCOXzjNw&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"52",
+      "name": "OnePlus Nord CE4 Lite",
+      "brand": "OnePlus",
+      "color":"grey",
+      "price": 20998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3S66fXaZHKDeLomyNe95te9NvGCMmOejKXMguQNuRc7gARqfXWdfAj2m4qLkvbdbUstoU1BnhUIUzMnupywYPWiEpZvoWhDy5oOGOT5j6bBrvnPIsnQNUiITQHC6sIsr8_OzxeIjjGZE&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"53",
+      "name": "OnePlus Nord CE4",
+      "brand": "OnePlus",
+      "color":"blue",
+      "price": 23990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSSPdwb2nLREAC6btRCt-zj6vDsU7oO02mNJBgngJdqViUGUFemsJCdUgJMxKTEOmzGVtZc1ODIFhtoV_J_DpC5OnH1FA-BF8lwxXRavmG8dhMyxPQpGWwNYfPXdnPNPjubVWWFBYQRpo&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"54",
+      "name": "iPhone 14 pro",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 57999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzLTO3s5ayL-b4GYXYkeEP6dkI1b6pTRuUAk6Ij-y6VN6mswzdlzyD9mlTmz62D9gX5hpFY7Sxb091YseXASKYIWQxlgi3Zd9ARLlp4jrn",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"55",
+      "name": "OnePlus 12R",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 45999.00,
+      "image": " https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSzLTO3s5ayL-b4GYXYkeEP6dkI1b6pTRuUAk6Ij-y6VN6mswzdlzyD9mlTmz62D9gX5hpFY7Sxb091YseXASKYIWQxlgi3Zd9ARLlp4jrn",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"56",
+      "name": "OnePlus Nord CE 3",
+      "brand": "OnePlus",
+      "color":"blue",
+      "price": 17112.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-s8XxpSstEdJ8eqlJqDRzIxtxgijQmx20hHbnJ_xWIQWJHk6qCVUnDXOtJn5gI6xdEQZtxmigshrninwQkAd2jUw2SiD_WA",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"57",
+      "name": "OnePlus 11R",
+      "brand": "OnePlus",
+      "color":"blue",
+      "price": 39900.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqcFEGhSscc_ZXwogdHY4BUqLePBymrLndD5UuqFAjvcxXVhFnlPH98nCDtMRsBaxURLc7nN30chsXI4z_4ObrUvM0acLdgHRg47OGEh6iC2VEiV9bE4U2",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"58",
+      "name": "OnePlus Nord CE 3 Lite",
+      "brand": "OnePlus",
+      "price": 17499.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQv7YZnTdeoA68KC8iVGxDz_c_wgo7pdp7S6bDYlMxzQ5k_3midT7sz5EFc6xqoKGqT5DA9vkK0sIAlY1763e9ttcUF943aw2LDuITw3lex56Y3MU8xMwHv",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"59",
+      "name": "OnePlus Nord CE 3 Lite",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 17999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRI2FcAzzKhRYelc4hy5mQLIo4QTF4lyX_2f4ywOWJ869ebigd3LtBxrZ6HzNWNGynYqDbSQK8u5oERu1hH5c7jvty83KA_t68aPBkA1GgiWuIbwOH-Bpqi8Q",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"60",
+      "name": "OnePlus Nord CE 2 Lite",
+      "brand": "OnePlus",
+      "color":"sky blue",
+      "price":7900.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMxm18nQpuPN14X5MB9t_-HcEkg39kDNx4b-8efU1QcVtWv1fwGiAb0WHekpkM73hFZwJsqkrRrMaqVNMJcCEWMISrUb48isl6hJbmCPyYw4_sZIdcxu9gDlE",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"61",
+      "name": "OnePlus Nord 3",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 29999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_CMDHdXfaV7aVz7Biav8j7wtQGpjtJKNGLxdGOOrIg_TZr_EUjcqEzru1GOqldzNmkPvyrtfPbqZMLjyvW96ujV6myckrV87xegmjN0XSLv56soqR_OCrtw",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"62",
+      "name": "OnePlus 6T",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 9990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0Jg2rs_VSt0od_85Dr20gl-HqzztXVSXpJXRrLzPcZU-owecIHkZMmqjmqB33RzNzTtfJHjWJitt9DXQsge97QqMLfQLJWReKuCkiJ5ciDCyqfnHbt7XAiQ",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"63",
+      "name": "OnePlue 8T",
+      "brand": "OnePlus",
+      "color":"sky blue",
+      "price": 14599.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQx7f3IAJLd7dGdWfNgZK2q3rIJaWMomHPBfhfbmil5xiz6b2s0hTmzUPrNkAkNGhgn6KHWSv_y7Cy8D9Bf0x_kvpSBnAga_Az6_Lx9N1hZE-nxh-FqdG7H",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"64",
+      "name": "OnePlue Nord 2T",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 13119.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1J5AkeWPoch983p3F4K1U08NHsRd4fsYV7mmKlTax7Dz700XwdESaHUhXrfr-yTRnpX8xuO5ZPTbago0kyacs_XQz9_GHuHgrF33P7uBtCuAjONtQfRAm",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"65",
+      "name": "OnePlue 8",
+      "brand": "OnePlus",
+      "color":"white",
+      "price": 237374.00,
+      "image": "https://images-cdn.ubuy.co.in/636e7bcb8ca0fd1b41776e23-oneplus-8-5g-dual-sim-in2013-128gb-8gb.jpg",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"66",
+      "name": "iPhone 13 pro ",
+      "brand": "OnePlus",
+      "color":"white",
+      "price": 43999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6ZrhD0smuxWfH0ht8vp-ZM8YoeMPiIz2hSstpPnyYhmWYNSpB3YBAA8mcsOywiy8r6whOYJUIqtReYzckpiqDfYPVXWcxBHZM3bjrWwBnSqEI7ZSaNBB7pkqL",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"67",
+      "name": "OnePlue 10R",
+      "brand": "OnePlus",
+      "color":"black",
+      "price": 27499.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTT-g7MCj6oBPHqlbjwhcJC8YJ6nTViRJ4y_f2oE71rcmtc2zTBOAS-UjXyAqS9sNWUYLQn4523voGH35-RtlnOVtUocH6-9-lQRogRFgLFdtgX0U1OloWB",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"68",
+      "name": "OnePlue 8 Pro",
+      "brand": "OnePlus",
+      "color":"white",
+      "price": 41999.00,
+      "image": "https://mymec.in/wp-content/uploads/2021/04/New-Project-39.jpg",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+    
+  ],
+
+
+  "samsung" : [
+    {
+      "productId":"69",
+      "name": "Samsung Galaxy A55 ",
+      "brand": "Samsung",
+      "color":"sky blue",
+      "price": 30998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5LNVT8EfAr1NeSICPpY-lCKVRBEGjukbxFkYhFkfdKoFidzDAjgn8jQ2KmkBc8Gsr8tCSyRL8Ksb6NiKPgTHOOnUlqXVY9I428XeR2G3aOF_o9BHDXBXRl9rCLClvkDIfup5cxwQ&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"70",
+      "name": "Samsung Galaxy S25 Ultra ",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 117999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQhGyFFDJ3ANWfVRoHl-C-36OClPDIGOIYN5LGENEP6nGlCq0M7PgntvUAyPz-IZE51snG_jiVCTlemD-jspIChTeNPazvhxH7AmIlXoETtz2OD-IX_xVgokX2bSuART4J6kwLiis&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"71",
+      "name": "Samsung Galaxy S24 Ultra ",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 90990.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEwolyZ0ZELNEEiZ1ZLHnzLuJ6RopK8OKJ474kyD5z7eENPXOxafIoB7dXlnNiCtBPy34EyFVKMAymcSbCMWiV7dYoCD3WhYeVyzTOgS3h1GNySSq1so8oyvk0Q6wP5wl8YL4ps_g&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"72",
+      "name": "Samsung Galaxy S24 FE ",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 34998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzVXatPUayGQXENAdlqxhyLx0IgjKCrJJaw-ie75AvCHy9dNM7vzFDGPAOsNJ2MfK-m4wWtv9ldaSIxmkq1Rgn6_2RxE90z49jPRRryym6wQKtXMKmZ94YTerI1tycmdIEhbCURQ&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"73",
+      "name": "Samsung Galaxy S24 ",
+      "brand": "Samsung",
+      "color":"white",
+      "price":48990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiw00wv3bk1qm6IilPcRqs6NWdXzH-iVY5QAateHHxe_J9rV0nM8eEvyBymc_vhiQ61QyyYi4BD8zrsPn8slRyNtzTfXVDxL3_1FSz7XujaSL4HtH0sYjeD2ZNlb4xlKlrAoO_VOI&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"74",
+      "name": "Samsung Galaxy M35",
+      "brand": "Samsung",
+      "color":"sky blue",
+      "price": 18498.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuG7r-M6JBYxESCpQl6Ayi-aS13hyYebG48DZ6rIXJfQvGxWgqUd-nisHpm3MqjxQuZ7K64ZRBt8M0SyWafuzau0s1TgppToJk_KsYj3z9Lg8t9l0WY5H3JIIw00mGe6x5NWjJh4k&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"75",
+      "name": "Samsung 12R",
+      "brand": "Samsung",
+      "color":"blue",
+      "price": 45999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuG7r-M6JBYxESCpQl6Ayi-aS13hyYebG48DZ6rIXJfQvGxWgqUd-nisHpm3MqjxQuZ7K64ZRBt8M0SyWafuzau0s1TgppToJk_KsYj3z9Lg8t9l0WY5H3JIIw00mGe6x5NWjJh4k&usqp=CAc ",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"76",
+      "name": "Samsung Galaxy A35 ",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 24090.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0WJaVSrJuYq7etEdLFtDpAbBuW6zZB0elvbk0pL2VBWpvlAm2PNPlimUR8RnCxHJUb0-2NxlIROvLAXynQLIzbDNMmwKRj80a6QqeYy0Rks-6SFNzlKsTirV5AJsw1l7cJZLq4A&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"77",
+      "name": "Samsung Galaxy A56 ",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 44900.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQB6zhHPlbtDd_Y4lx4YncJg6u0GxAkJEKexMIBmdev_w34za4ww-0W6BnEkUn2XAyPSXTX0cwnbQwoWlOO407MnaDH_8ARRQwpsHr53fiQAI9vOPZpHLBuoYKMwhY0vE64YJXd2po&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"78",
+      "name": "Samsung Nord CE 3 Lite",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 17499.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiw00wv3bk1qm6IilPcRqs6NWdXzH-iVY5QAateHHxe_J9rV0nM8eEvyBymc_vhiQ61QyyYi4BD8zrsPn8slRyNtzTfXVDxL3_1FSz7XujaSL4HtH0sYjeD2ZNlb4xlKlrAoO_VOI&usqp=CAc",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"79",
+      "name": "Samsung Galaxy M16",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 12998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEvZOp2j80rBVAIhHR5vgCm35ape-Q5w0FgA3i-2MUmEfDb_gHIrUxnVsq1qbQjKjJp2620fLtC9BtMrfuR9YjV2YzW60ExSiZi3sBytVso9Ui49337md8CJVhHvNpFnLXc78IsQ&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"80",
+      "name": "Samsung Galaxy F55",
+      "brand": "Samsung",
+      "color":"orange",
+      "price": 17900.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT17pW92RXMWPf7vTmtV6KLun1_LLN9jEkqIiCLQW93xYZJRWdqy8hZ76y00d8JdbF4H5zXZnNUNaruhKZmjxtNp7BkXy7M3CqA-avJAMZmmkVrM6yGmroT&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"81",
+      "name": "Samsung Galaxy Z Fold6 ",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 128700.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnxRUJ9iYf1CEnBkkKEP8EY96ATGkoXmpdOVFiVfx2-HYc_Jaa0t0C_GHc0asozfN97ylNxPNYkURBKD3CH2xoi2rsn-oTFX7Jej8o9gYSfdYskZtcc1j1jdJkp2tlulT8wvQcuA&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"82",
+      "name": "Samsung 6T",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 9990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiw00wv3bk1qm6IilPcRqs6NWdXzH-iVY5QAateHHxe_J9rV0nM8eEvyBymc_vhiQ61QyyYi4BD8zrsPn8slRyNtzTfXVDxL3_1FSz7XujaSL4HtH0sYjeD2ZNlb4xlKlrAoO_VOI&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"83",
+      "name": "Samsung Galaxy A55 ",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 14599.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7n0OAYppEzUQzpvAJgKlMnVblKI02VPaq5eXg7jkbqxit3pM8e0aHvTT8McB-15Mv3g8q3fZ9SNNI9iFT3lNzF6r19Q0IS3X2LO-7DXuf4Q61sw1N3xnq0k8fe4BEsuLhx-WyJRY&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"84",
+      "name": "Samsung Nord 2T",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 13119.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiw00wv3bk1qm6IilPcRqs6NWdXzH-iVY5QAateHHxe_J9rV0nM8eEvyBymc_vhiQ61QyyYi4BD8zrsPn8slRyNtzTfXVDxL3_1FSz7XujaSL4HtH0sYjeD2ZNlb4xlKlrAoO_VOI&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"85",
+      "name": "Samsung Galaxy A16",
+      "brand": "Samsung",
+      "color":"sky blue",
+      "price": 15999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz4y9qZi3n4O5z5lrmsOCuhTe8RlYkoN7YNIW3Tiade7DjigZ9OkSwXeMFxXRoGUuVdtOMgJ9yO4qo8a_UanPiIDJs_hoTZ_MWWsyD9_hhutCkZpO-MC7_vlM1NSvJHo2AcmPUowo&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"86",
+      "name": "Samsung ",
+      "brand": "Samsung",
+      "color":"white",
+      "price": 43999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiw00wv3bk1qm6IilPcRqs6NWdXzH-iVY5QAateHHxe_J9rV0nM8eEvyBymc_vhiQ61QyyYi4BD8zrsPn8slRyNtzTfXVDxL3_1FSz7XujaSL4HtH0sYjeD2ZNlb4xlKlrAoO_VOI&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"87",
+      "name": "Samsung Galaxy M56",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 30998.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcFoPlSYKicDTKHZuEJ53acQEKwhzxqMqJRYKFVWpgXdoB7-xq7uiRJVkQlmcbvrzK1M3OeBW3ALh8U7mj5W_VQAiES1sMNypAmrcuKOBmM3rCXJSxs1O5IluvBxA1XIiZn6IDWB4&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"88",
+      "name": "Samsung Galaxy A36",
+      "brand": "Samsung",
+      "color":"black",
+      "price": 36999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHeNwA5gSWCH2YzsUUnYj9pI8ULh69pIAa5Ko8I8RcqHDYY1rvyIzj2Z6hA8DriHHk8jfFmK_M0G-h_PphV9t_dx9w7zKzROQJXAwEMpwLTO8E3uQoFxnApka899-tbDqO9iMM8w&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+   "xiaomi" : [
+    {
+      "productId":"89",
+      "name": "Xiaomi 15 ",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 64998.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjbaIV2Y5JEpBjZnMylPqgQJdKdzrYGk_B112x6QZMIbFUD5IQ7YD8PI_ftEJyH87Pz7RB1iOD8CrKukmcbteO-Sy_XaN7h5SDKhF2GDk3TogV9dVt7mrmfA",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"90",
+      "name": "Xiaomi Redmi 9A ",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 8499.00,
+      "image": "https://cdn.dotpe.in/master_catalog_showroom/Mobile/M115.jpg",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"91",
+      "name": "Xiaomi 11T pro ",
+      "brand": "Xiaomi",
+      "color":"sky blue",
+      "price": 15990.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1iOxfeqv4CQubJoLYsNpo-ShaJf7WBwGCr6Mz5EjMwwU17EAM6YYp_Hxfbfrg00-3Sg9wQ1IQigt_J4A_b_xewmM4hm2lXA",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"92",
+      "name": "Redmi Note 14 pro ",
+      "brand": "Xiaomi",
+      "color":"sky blue",
+      "price": 23999.00,
+      "image": "https://i03.appmifile.com/484_item_in/21/01/2025/82cc33408076d6bf1b670adae7ac958b.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"93",
+      "name": "Redmi Note 14 pro + ",
+      "brand": "Xiaomi",
+      "color":"black",
+      "price": 29990.00,
+      "image": "https://i03.appmifile.com/691_item_in/21/01/2025/df5eec4a70b3743151bda47924a1f21b.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"94",
+      "name": "Redmi Note 14 ",
+      "brand": "Xiaomi",
+      "color":"blue",
+      "price": 16499.00,
+      "image": "https://i03.appmifile.com/930_item_in/11/02/2025/7c9ac30b8bfe2a6d2a02cdba118b29f8.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"95",
+      "name": "Xiaomi 12R",
+      "brand": "Xiaomi",
+      "color":"blue",
+      "price": 45999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1iOxfeqv4CQubJoLYsNpo-ShaJf7WBwGCr6Mz5EjMwwU17EAM6YYp_Hxfbfrg00-3Sg9wQ1IQigt_J4A_b_xewmM4hm2lXA",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"96",
+      "name": "Redmi A5 ",
+      "brand": "Xiaomi",
+      "color":"black",
+      "price": 6499.00,
+      "image": "https://i03.appmifile.com/154_item_in/11/04/2025/50f7e9d6090496422a43f1c5647f2e9c.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"97",
+      "name": "Redmi 14C",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 9499.00,
+      "image": "https://i03.appmifile.com/263_item_in/06/01/2025/af2a2909f33d74df4f590f99b3ebf4d6.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"98",
+      "name": "Redmi A4",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 7499.00,
+      "image": "https://i03.appmifile.com/432_item_in/21/01/2025/09e1b40721c3144b3e2ff9de4df38d04.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"99",
+      "name": "Xiaomi Galaxy M16",
+      "brand": "Xiaomi",
+      "color":"blue",
+      "price": 12998.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1iOxfeqv4CQubJoLYsNpo-ShaJf7WBwGCr6Mz5EjMwwU17EAM6YYp_Hxfbfrg00-3Sg9wQ1IQigt_J4A_b_xewmM4hm2lXA",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"100",
+      "name": "Redmi 13",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 12900.00,
+      "image": "https://i03.appmifile.com/84_item_in/11/07/2024/a81eb2562467b397b488f18bd4cc2506.jpg?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"101",
+      "name": "Redmi A3X",
+      "brand": "Xiaomi",
+      "color":"white",
+      "price": 6699.00,
+      "image": "https://i03.appmifile.com/903_item_in/25/07/2024/5a67e5b9b54a93bf685f90085fab1644.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"102",
+      "name": "Redmi A3",
+      "brand": "Xiaomi",
+      "color":"blue",
+      "price": 6990.00,
+      "image": "https://i03.appmifile.com/122_item_in/01/03/2024/ab9700f4cb886afae8b857adabd53c7c.jpg?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"103",
+      "name": "Redmi Note 13 pro + ",
+      "brand": "Xiaomi",
+      "color":"black",
+      "price": 24999.00,
+      "image": "https://i03.appmifile.com/139_item_in/04/07/2024/46058aecef913d385aee9e7ef1cdd257.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"104",
+      "name": "Redmi Note 13 pro ",
+      "brand": "Xiaomi",
+      "color":"red",
+      "price": 19999.00,
+      "image": "https://i03.appmifile.com/874_item_in/25/06/2024/3b560214ed858b604493a3943d65a95b.png?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"105",
+      "name": "Redmi 12",
+      "brand": "Xiaomi",
+      "color":"ice blue",
+      "price": 11999.00,
+      "image": "https://i03.appmifile.com/671_item_in/02/08/2023/ea66f621d1a4637141dde0462f789968.jpg?thumb=1&w=220&f=webp&q=85 ",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"106",
+      "name": "Xiaomi ",
+      "brand": "Xiaomi",
+      "color":"sky blue",
+      "price": 43999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1iOxfeqv4CQubJoLYsNpo-ShaJf7WBwGCr6Mz5EjMwwU17EAM6YYp_Hxfbfrg00-3Sg9wQ1IQigt_J4A_b_xewmM4hm2lXA",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"107",
+      "name": "Redmi A2 +",
+      "brand": "Xiaomi",
+      "color":"sky blue",
+      "price": 5499.00,
+      "image": "https://i03.appmifile.com/35_item_in/03/06/2023/b0dc5c0db2210cb0aadab5f6230edf95.jpg?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"108",
+      "name": "Redmi A1 +",
+      "brand": "Xiaomi",
+      "color":"black",
+      "price": 3999.00,
+      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1665657331.90189686.jpg?thumb=1&w=220&f=webp&q=85",
+      "specs": { "ram": "2GB", "storage": "32GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "realme" : [
+    {
+      "productId":"109",
+      "name": "Realme C73 ",
+      "brand": "Realme",
+      "color":"white",
+      "price": 10998.00,
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-14x-5g-glo.jpg",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"110",
+      "name": "Realme GT 7 ",
+      "brand": "Realme",
+      "color":"blue",
+      "price": 49999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-GT-7-Dream-Edition-db-240x180-1748341229.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"111",
+      "name": "Realme  GT 7T",
+      "brand": "Realme",
+      "color":"yellow",
+      "price": 34990.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-GT-7T-DB-240x180-1748341080.jpg?downsize=*:90",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"112",
+      "name": "Realme C75 ",
+      "brand": "Realme",
+      "color":"white",
+      "price": 12998.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-c75-5g-realme-db-240x180-1746450921.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"113",
+      "name": "Realme GT 7",
+      "brand": "Realme",
+      "color":"yellow",
+      "price": 48990.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-GT-7T-DB-240x180-1748341080.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"114",
+      "name": "Realme 14T",
+      "brand": "Realme",
+      "color":"blue",
+      "price": 16498.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-14t-5g-realme-db-240x180-1745563838.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"115",
+      "name": "Realme Narzo 80X",
+      "brand": "Realme",
+      "color":"black",
+      "price": 12999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-narzo-80x-5g-realme-db-240x180-1744201282.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"116",
+      "name": "Realme GT 7 ",
+      "brand": "Realme",
+      "color":"yellow",
+      "price": 24090.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-GT-7T-DB-240x180-1748341080.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"117",
+      "name": "Realme  Narzo 80 pro",
+      "brand": "Realme",
+      "color":"white",
+      "price": 18400.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-narzo-80-pro-5g-realme-db-240x180-1744201599.jpg?downsize=*:90",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"118",
+      "name": "Realme P3 Ultra",
+      "brand": "Realme",
+      "color":"white",
+      "price": 24499.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-P3-Ultra-5G-db-240x180-1742394590.jpg?downsize=*:90",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"119",
+      "name": "Realme P3",
+      "brand": "Realme",
+      "color":"white",
+      "price": 15998.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-p3-5g-realme-db-240x180-1742394447.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"120",
+      "name": "Realme 14 Pro Lite",
+      "brand": "Realme",
+      "color":"white",
+      "price": 19900.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-14-pro-lite-5g-realme-db-240x180-1741083069.jpg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"121",
+      "name": "Realme P3 Pro",
+      "brand": "Realme",
+      "color":"white",
+      "price": 21700.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-p3-pro-5g-240x180-1739863847.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"122",
+      "name": "Realme P3x",
+      "brand": "Realme",
+      "color":"pink",
+      "price": 12990.00,
+      "image": "https://i.gadgets360cdn.com/products/small/realme-p3x-5g-240x180-1739863862.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"123",
+      "name": "Realme 14 Pro ",
+      "brand": "Realme",
+      "color":"white",
+      "price": 22599.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-14-Pro-5G-DB-240x180-1737034751.jpg?downsize=*:90",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"124",
+      "name": "Realme 14 Pro + ",
+      "brand": "Realme",
+      "color":"white",
+      "price": 28119.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-14-Pro-5G-DB-240x180-1737032520.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"125",
+      "name": "Realme 14x",
+      "brand": "Realme",
+      "color":"red",
+      "price": 13999.00,
+      "image": " https://i.gadgets360cdn.com/products/small/relame-14x-5g-realme-db-240x180-1734507776.jpg?downsize=*:90",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"126",
+      "name": "Realme  Narzo 70 Turbo",
+      "brand": "Realme",
+      "color":"yellow",
+      "price": 13999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-Narzo-70-Turbo-5G-DB-240x180-1725872960.jpg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"127",
+      "name": "Realme Narzo N65",
+      "brand": "Realme",
+      "color":"white",
+      "price": 10998.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-Narzo-N65-5G-DB-240x180-1716801909.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"128",
+      "name": "Realme C63",
+      "brand": "Realme ",
+      "color":"white",
+      "price": 10999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Realme-C63-5G-DB-240x180-1723449741.jpg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "pixel" : [
+    {
+      "productId":"129",
+      "name": "Google Pixel 4a ",
+      "brand": "Google",
+      "color":"black",
+      "price": 17298.00,
+      "image": "https://images-cdn.ubuy.co.in/669f410231238f70997e933e-google-pixel-4a-g025j-128gb-just.jpg",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"130",
+      "name": "Google Pixel 7a",
+      "brand": "Google",
+      "color":"sky blue",
+      "price": 27999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBlFGteZouYktbdxClTzrhXxrlutPuQpKi6m1aV78HK9zJS1tz_mCJSGDWdqMxIk90VoWbzBp8yXBKMfOti3dSemmXGWhbBh5FiCvt-EE",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"131",
+      "name": "Google Pixel 3",
+      "brand": "Google",
+      "color":"white",
+      "price": 19990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpTL5Gn_zxhe3J6qO4PryykPEPjuNcZUYdSMAEMMNfR_QSgOw7en90x818OXGjPEf-qIYTX8iPyHCakUP6NWCYwSal4fR0GR4aKPfNs4DwCAVqIDlxbtdSvQ",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"132",
+      "name": "Google Pixel 6a ",
+      "brand": "Google",
+      "color":"ice blue",
+      "price": 18998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmA37ri_rTbNBWu6xQID4-jUC5Vezg2CFClQxMP2GCWCcgmIi-OTh-tNezqlvDu1-RoF7n2l_y5Gsy5NVKbqPi-YIsCiCG5k3X1tKZBWIL9YkDT0jpGP9BVA",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"133",
+      "name": "Google Pixel 4 XL",
+      "brand": "Google",
+      "color":"black",
+      "price": 18990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTjUfh3_2IUXqoqz67Qy1PB7MHMhKjW8x_7OYQ6dkYUtS8it_WS5nWxUBwvpTzW3-h_9YU9jfDIix2vbGt_O8QOtVja4A5oN5lHhmLfqmJAJPtoHFk_AxsFm-o",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"134",
+      "name": "Google Pixel 3a ",
+      "brand": "Google",
+      "color":"black",
+      "price": 21498.00,
+      "image": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjM2NjhiMDdkMWVlMTA0OGViNjFhNmQ0LWdvb2dsZS1waXhlbC0zYS10LW1vYmlsZS1vbmx5LWJsYWNrLmpwZw.jpg",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"135",
+      "name": "Google Pixel 8a",
+      "brand": "Google",
+      "color":"black",
+      "price": 45999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4qxN97VNKTW5iObWZuCZWN2wZf_XYIywHohnJrnh3AYOWTaLRU5sGVtIiz6xUG3v27R0Dhz0fvt2QClqBnmKRk9JTNPXHz8J7xrG0uRYOMxa24qVR5kiu1fonCoyipQv0qIqJabj2Y3I&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"136",
+      "name": "Google Pixel 7a",
+      "brand": "Google",
+      "color":"sky blue",
+      "price": 21090.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkd123NcnJSHdvkFlsg1IvtVgXMzP_cG-6eBbcWxXuh1q-j8VDHGdrFCwnG42-SGHpCQYPRSP3ajXw4YR-QFBL3WVEzQtiVvp5T8hVWWo_XFKjUpmmYMd8Lw",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"137",
+      "name": "Google Pixel 9A ",
+      "brand": "Google",
+      "color":"blue",
+      "price": 49900.00,
+      "image": "https://i.gadgets360cdn.com/products/small/google-pixel-9a-240x180-1742395525.jpg?downsize=*:90",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"138",
+      "name": "Google Pixel 9 Pro Fold ",
+      "brand": "Google",
+      "color":"black",
+      "price": 162999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/pixel-9-pro-fold-db-240x180-1723562527.jpg?downsize=*:90",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"139",
+      "name": "Google Pixel 9",
+      "brand": "Google",
+      "color":"white",
+      "price": 74998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiC3mSRPT0SzNqfcYpHYR_gZiDRktGm5UrYHkC_OoXCSGW3K8tvaZon_cp3yG4YWvIQVq1IMPbKQqFM5aAkdK4osgLP8PE8yCpu62CN4_2bUhM3vJCIPYO9-XbzLdpOtApvoLapSwYmJY&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"140",
+      "name": "Google Pixel 9 Pro XL",
+      "brand": "Google",
+      "color":"black",
+      "price": 114900.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Pixel-9-Pro-XL-1-240x180-1723558079.jpg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"141",
+      "name": "Google Pixel 9 ",
+      "brand": "Google",
+      "color":"pink",
+      "price": 74900.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Pixel-9-DB-240x180-1723555711.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"142",
+      "name": "Google Pixel 7a",
+      "brand": "Google",
+      "color":"sky blue",
+      "price": 9990.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFQmj49R8zevgUSgeRMut3Yc5ZIGWhI1CDNjmUukByyxUBJkGDFGY-N3al4J0ALzp-bFkmuS5rgSnDnDpz0LXycbhd9pCaNRyB-oGtuOBLfCzNst6w7FieDWwpInlPV0esKf2slsqboA&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"143",
+      "name": "Google Pixel 8a",
+      "brand": "Google",
+      "color":"sky blue",
+      "price": 37999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/pixel-8a-db-240x180-1715088168.jpg?downsize=*:90",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"144",
+      "name": "Google Pixel 8 Pro ",
+      "brand": "Google",
+      "color":"black",
+      "price": 79999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Pixel-8-Pro-Bay-2-240x180-1696485838.jpg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"145",
+      "name": "Google Pixel 9 Pro Fold ",
+      "brand": "Google",
+      "color":"black",
+      "price": 152999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTV8pzV-t0gEHc6_VajDE1cwpoeL8b-r1oDNdfe1R0QozWiyN0T1gqaOft5FPZ-UKbMdUt9Nn2aOp_AAmZ-0I5C55qpB7NKw-J-atK4G5D9 ",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"146",
+      "name": "Google Pixel 7 Pro",
+      "brand": "Google",
+      "color":"black",
+      "price": 42999.00,
+      "image": "https://i.gadgets360cdn.com/products/small/Pixel-7-Pro-240x180-1665067244.jpg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"147",
+      "name": "Google Pixel XL",
+      "brand": "Google",
+      "color":"white",
+      "price": 15999.00,
+      "image": "https://drop.ndtv.com/TECH/product_database/images/1042016102516PM_120_google_pixel_xl.jpeg?downsize=*:90",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"148",
+      "name": "Google Pixel ",
+      "brand": "Google",
+      "color":"white",
+      "price": 22999.00,
+      "image": "https://drop.ndtv.com/TECH/product_database/images/1042016101842PM_120_google_pixel.jpeg?downsize=*:90",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "motorola" : [
+    {
+      "productId":"150",
+      "name": "Motorola Edge 60",
+      "brand": "Motorola",
+      "color":"purple",
+      "price": 22998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRsm1Pl4GdPxLtcMXKMD3EuvE-OKhcmyGAcXbYGajzzmgQHTXg7gNqvcVXudYzCGaFislYxl2lnhZ-_CfEJgGf5_MUpUfgow6xJnxpNp-9y9hSc4R8kRAlgNw",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"151",
+      "name": "Motorola G35",
+      "brand": "Motorola",
+      "color":"red",
+      "price": 9999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTUdjCVcXHpXsSWfh1DW6kdENZoq0a1qwBoQLYjVdlV6WcWbk74kdl3U3O_P7vPSWl_nLY2rD3skLMHiIpT3JDViZfIKg6WHcnMJOpPDkA",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"152",
+      "name": "Motorola G54",
+      "brand": "Motorola",
+      "color":"black",
+      "price": 11990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQttJdfXKL5EPdOcTKHuhL6lHpZ4iaCi_VBv2ZJZzia1gXtBPxgJ9uPo2eZ3AaOr9KZEESTG_hKOCOkmy0zcr0z0ssNxjzVfB_7ixilhTQ35oNVoDEzj4SDDQETkFM7_65Gi-DT0g&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"153",
+      "name": "Motorola Moto Edge 30 Ultra",
+      "brand": "Motorola",
+      "color":"black",
+      "price": 59998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrxlyVb3KUlYYLIyHEE-GrlAYSbUhWxS-6InPR-jvn8jxLtD0eEhnzyAkUNLTBzQepWNoatyVzQoLJipsUfvwMtUPi49QKdNIki1PIpCyXGw4nvXAcd91Ur0jfmxA9qQvioQF-91Av5w&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"154",
+      "name": "Motorola Moto G64",
+      "brand": "Motorola",
+      "color":"pink",
+      "price": 18990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_GvV59amj3MdH5r_fiGid1TOMezdnjOX4QGcZ2vCg_W1uemUaMmUFm4i50d_PiMbnv17vZdIllpft1lBAYanCdYO_0Kno9PuUhRSz47oR3Seyi6Yvl6SVlIi3hA3Z&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"155",
+      "name": "Motorola Moto G85",
+      "brand": "Motorola",
+      "color":"yellow",
+      "price": 20498.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxF6_isiMYioALTuloj3-e3H2oeafavwgQ5B5wd-lpUdC_DYxz0y-8S6OAAL9iRuuxREDIe9Oi3CVNHVFuSDFsfAjgv2VevLkGZVMMDPHjKDL5Yco3mU4fksg_4bOkHg&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"156",
+      "name": "Motorola Moto G85",
+      "brand": "Motorola",
+      "color":"pink",
+      "price": 20999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXKRTBtmfMHDVEEgWZt4Qul-ISW2-go6zb5_kPvPSeloKoB1NZ2Mi2VLEji8g4IQQrx9J8Yl6vWkW285FnwXmZbgvRSNLBXWqQlcPj8wagu-wR-uHnBv6BD5a3_L5uTA&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"157",
+      "name": "Motorola Edge 50 Fusion",
+      "brand": "Motorola",
+      "color":"green",
+      "price": 20090.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhYuAVYvWkn19WQz9J0dgfxlxYtRJHzPvmQzoinbKPcFTjAJoFicsuU1_S39V14PH4819JRtwx7xvWqTmHR6_WpBj9ai_SdazTUaDP9vJ0tCoISbBgEHQniKf1inL2&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"158",
+      "name": "Motorola G64 ",
+      "brand": "Motorola",
+      "color":"white",
+      "price": 15900.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRk-C-_TRDyTCS4P5CBi2IAv0Do-0P6_WbsizSoUmVYOemONz-2wMeXAAsG8SfwwXXG7EtRnwZvutJLX3pHUDZ3WPe7kvLJdWJvm1rMk6I&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"159",
+      "name": "Motorola G45",
+      "brand": "Motorola",
+      "color":"blue",
+      "price": 11499.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0BjCBC2zIDJ-4YxIgTpnZAWb-9M13MKgSx20DzthYigV4TZi3N8_7KI1hO1O3WUH2g1OVmtsTjG095qYD7MU9NkmAfqFaYLYOtU2xcuRcCEwCeohiEhHj&usqp=CAc",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"160",
+      "name": "Motorola Edge 60 Stylus",
+      "brand": "Motorola",
+      "color":"blue",
+      "price": 23998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSCH5Q1Tjrb6yFuYntl1UdvNOKA31_Nk2EQXmg6W91mtwyul5plOZYbXShNcbCOl9Is0CdH6hlEVE7Xalt9R8w3T3ql2eCovLanFQWLsVsN7GKgSbT-baHFd1Ehi6SM9Z9g9h6bHw&usqp=CAc",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"161",
+      "name": "Motorola Edge 50 Fusion tG",
+      "brand": "Motorola",
+      "color":"green",
+      "price": 22900.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlKUPi1LMJA8XSAntl6G864Esxjaxpw1U9lGAUPt5SVn5cmgOth4XWr_nsM5pJ-IKM-5IGkeVZdcSsf76gKn92fmaoSpiKHzdfx5B_CkWhUnxTLF2cLP4p1kGs_AZPqKWpj5f-7FVEKw&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"162",
+      "name": "Motorola Edge 50 Fusion ",
+      "brand": "Motorola",
+      "color":"pink",
+      "price": 23000.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiKi_Ki9m0myJ9_hkqVeXhLlUChEQIfRYSlnd1fVkXxxSc7NozqC-5IK4LeqtBmwPpfBsTddOh4U25K-mz07hN8R1rTSrClcn-xboGE6Nm_i2UrK-2_HYtrmVQ5i-R2KhhLXGKeyfoP6I&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"163",
+      "name": "Motorola G45",
+      "brand": "Motorola",
+      "color":"sky blue",
+      "price": 12990.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-ZvJ1W337Dvz2xLkpygj_kohwpa6861g0KGhwkFRpZgT7QmktqEgCICpoHqnLs9fj9uIgT1QGWGVRDDRVn7j1VgesIF2NODIVffC3f-rXD72wa5FOb-SK2Kl-VszbDNI1XDraNK4&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"164",
+      "name": "Motorola Edge 60 Fusion",
+      "brand": "Motorola",
+      "color":"pink",
+      "price": 22599.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAoDv-RBCMixHLSmmq7ljao4Iqo3imqgh4bBQsxqtGiJ3KI8mcuyuVk90dk-gOhjIUP4gN3_pqb9zVx66TEb11xOkbRVm3LEPk83F0O3GfPEc9099Xj9vF&usqp=CAc",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"165",
+      "name": "Motorola Razr 50 Ultra",
+      "brand": "Motorola",
+      "color":"orange",
+      "price": 79119.00,
+      "image": "data:image/webp;base64,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",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"166",
+      "name": "Motorola Moto Edge 50 Ultra",
+      "brand": "Motorola",
+      "color":"white",
+      "price": 50999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXYRah-PPkRDs9k7sxeVLOP8bKpcrxPK22dXv9oarhpOKFhoBOpVYe8WJwCUtjiGwmdMtwhv3rEN7_kuZc5rJM0SlmeTlEWO38FX9bugpy724PQ2IJqNxdvidK0LAJu10t85XixciEwBU&usqp=CAc ",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"167",
+      "name": "Motorola G85",
+      "brand": "Motorola",
+      "color":"yellow",
+      "price": 17999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_Ux3FKdlhhzI_9dOxtbfpb2YS-q1uLLHPtaqAZm31zkZ5DIYj644mHmVl7LeivgxBpkr1SneYsQshVWPgJ9AiIqLdBplcT9INlS5dcS87&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"168",
+      "name": "Motorola G45",
+      "brand": "Motorola",
+      "color":"blue",
+      "price": 11998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8JQHk3pMOn3V4QO4mXUUeq0VPt7p7tvIQdV7fzQnQ2DdNR-NgWsP78FUD3Wbzi_A_HMZGQzMsUxvmpOKv5wFWKlU5Jm9sYUbtFZWlAxSOgS8bGIPNOiYbEQ&usqp=CAc",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"169",
+      "name": "Motorola razr 60 Ultra",
+      "brand": "Motorola",
+      "color":"white",
+      "price": 99999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRsaGNOmFCIol2uC351pEnIYj9FOE-BHfAzncelKeOKvIUCZU2vTT_oXKs1ea-WlcsJRTPTGJyuXzkmnJErc8jlBB_KxH35AThLxFZUW8hOq4PLPLDdOhctyUkPktXwWRyPSE3Wd98&usqp=CAc",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "vivo" : [
+    {
+      "productId":"170",
+      "name": "Vivo V50",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 36999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSV1Js_AEFoadmVlKDnOekHl0oV_L_EdpTsLBBpeIJJd_H4RE5vsB1MvFE-gEauOZ-RNA7b5CMoKHYA4qgd3QPTwaOKzz8Ec5k6Ey4cxYoJwyEcqU6Y48f9",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"171",
+      "name": "Vivo V29",
+      "brand": "Vivo",
+      "color":"purple",
+      "price": 30999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCHunrdfpd1rqpDZdlvYg6zDyn035kPy4rtVGgFNCWoobnse5i3MY-2OI9ZuCQOPVBikugN2CEhmibl-tCe0mZBi-gJ3pb9MVsGa5CpSxDALu_3ks2O01QqA",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"172",
+      "name": "Vivo V40",
+      "brand": "Vivo",
+      "color":"violet",
+      "price": 36990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTo3uUd8DExlIM7cM8NG_J4WS-7pMCP99_BElo2wXtP3-Z0drHG4qlwuSPV8-i2beQ92pxYMzIjrzVGKF4U7omfVoRb9VQLVBDmMu8SM-4iYH-R61c0P3np",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"173",
+      "name": "Vivo V40e",
+      "brand": "Vivo",
+      "color":"pink",
+      "price": 29798.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxtgx3-yExxaY0H9wHStJZq-z9BV9lBmEnbpSzeS-2FMGcfQRCRXK8fSMzwkE5qlSxLgT62x6c7gAqFWHj_HweXbFzPAHPt90121HqcNI",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"174",
+      "name": "Vivo Y100A",
+      "brand": "Vivo",
+      "color":"white",
+      "price": 21990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-IJg_HgaZ7Fm6HsVkI2fHyqaqG7l7Y7xT76F5PRzNDxr64X0Hjt334GLY2j25SQdKYTL8Hq8aw8rgsmhcF_f4EcBdxScF8PawwK3eG2kQHvQ1wlK6OQi5",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"175",
+      "name": "Vivo V50e",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 28999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_5JNoLbRE82uLdzUTtB6B8VTSxdB0KfKNhXPY0WDvo8UHEWiZ5Weo2zdnPzMWh97kHDYA-YpOvDdtmp5EjiKTEoExLe5SRmokRwUjuDkA4IaM5oYc3lKt",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"176",
+      "name": "Vivo T1 44w",
+      "brand": "Vivo",
+      "color":"blue",
+      "price":8999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBvJ6EsiLGvUQ8LOGUjgTtDSqcSPmUqeYEJJyPnoA4CqktnICZAEKx_8I7O2w1dPMgJEyckKSglwboBSfMZFqXJ7fV53LgDYqXxwmO3TQ",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"177",
+      "name": "Vivo Y28",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 15090.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCms67XF1WdcwUltrusNzrNce9FH_SdM6WUAy5oKW1eAEXrpwTw9KiEtQhl2PMBK27gRcjXaU9FB6E0g1iUAQm12OfWtdF1tSP1spvDIQwfgyxbflA-M6E",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"178",
+      "name": "Vivo Y28s",
+      "brand": "Vivo",
+      "color":"black",
+      "price": 14900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRxTZ5IW6bpkEI8HFl7_-e-fe9Y0cvFI8zs7c6QXlyHItkkgCS7sZ9Y5vRxbsQeG4lfsLvOvmu2kafIC95toGpBZ3JVl9CQ3jbTpGYqD4pVouR7e9h0sGv",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"179",
+      "name": "Vivo T3 Pro",
+      "brand": "Vivo",
+      "color":"orange",
+      "price": 24499.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPtIMzx6uZqlhUXF1RgDpV_4r4rsD4ShqV6OBQgBFU1suLu-3i5QZe4Lc8DMB9P6qilZD4TMGAYqIsni9B7ujXUuQktELfl438alTZ54DuZHaGJEm_-lFdJg",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"180",
+      "name": "Vivo V25",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 13998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuQPiC5W0wSBJ3Sm8P1V8CKkzB0opcRYQI1Dc7qzNLmWSfWVYjta-EhQvPBNSEoCUx4fEk_IJb9j4FGbxul6JDjoNw4VjHh5odpeJsrRpA",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"181",
+      "name": "Vivo X200 Pro",
+      "brand": "Vivo",
+      "color":"black",
+      "price": 94900.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiLh2n9aY8nL5Er_wRMf1nCXgGUpVtnR9sDe8a47USO35w3YUGZfCeJaluzC-WOqv1VNkUC3IL5mZK9QgPGytCHym2FKTzpv3juu2g14nxlQV1jTROYxq6",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"182",
+      "name": "Vivo Y39",
+      "brand": "Vivo",
+      "color":"sky blue",
+      "price": 16700.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQc9fzVzoXBsxCv5W1A8n7TMD5-ltthWNMNC4TK575E3suWZQaMuRE2AAGQAS4l_6TtbWwUlm56EpEMch41ujf-fxjXQOdMsIiqqHivvZA7fNKDTSHZ-Yb6UA",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"183",
+      "name": "Vivo T3 Lite",
+      "brand": "Vivo",
+      "color":"black",
+      "price": 10990.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTj9a2i7uohK8Eokvi5f1MTJIYCUP_3wKW38ulfaYW92it6F4apI56x8iEL2QH214Nlg0Sd-QJMvIdmxms3chg3ZSV6hSIgZfh6ca0ckgWEbGdkhXWt9Wqy",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"184",
+      "name": "Vivo T4",
+      "brand": "Vivo",
+      "color":"black",
+      "price": 23999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiNyASiENekA_KkBbQzJEj52nmDnCMUQ_M4_Tka4jYYs2pBspoNnpJLYoZer9NtRBU0VzoCuos2n2aW2uhYD71zpSPmHcIlRosE7zBca02",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"185",
+      "name": "Vivo V27",
+      "brand": "Vivo",
+      "color":"sky blue",
+      "price": 30999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTBKEw3xLzF4prKZ5A95Zfy3b1eENRabAygA6rsdqBpUJdZpa3fUhd9_amxDYCKjXR_Y_Ez-PooxWWoto9dTq6-a9IIpBs-iR7HsHQ85ya",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"186",
+      "name": "Vivo Y19 ",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 12999.00,
+      "image": " https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQia6pN0S9BNSvVrjU6_Dx7dZM6-PY0DfcmpEEzgmL2K5ZbMRZvUxFyL7FQ0Hc2iAWvdq1lhBPadXE2RMj-Nn9JhcBdoFBQ9gGMv8fj38w",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"187",
+      "name": "Vivo Y29",
+      "brand": "Vivo",
+      "color":"blue",
+      "price": 15999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWBJpHDLn1-Nv1AWYDvQHSi2IF9bo3Gw8XF6L1VDxiwdiaJivEaBmiTWF2jS4sgzFnZL79CwMljM91qJq2lwM7r5juw0sxF8CeYd-U3RwloswFZMFjhuaj",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"188",
+      "name": "Vivo V30",
+      "brand": "Vivo",
+      "color":"black",
+      "price": 28998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVsnTLUAU107M8SOnDhtyVe3sSejZQL_pBuS5_vmtqs8PQdZrhY-gBOb7BZ4qffiat9Gxu22A1AFoZBhO4tZpdIRMiYH3sIGN_CqjVfX6qEWh8--9WuHjR",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"189",
+      "name": "Vivo Y300",
+      "brand": "Vivo",
+      "color":"purple",
+      "price": 22999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbhe8HXX9TUE0Ull6s82rYdcNVelCyrEpdyHT67CisP2c7I5DOouZ6eVp6xXSOY7BL4NkjrFGJf-fooeoyhW7Qurxq8r_5_owMmlzpGusC_RAGuXeMp4r8",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "oppo" : [
+    {
+      "productId":"190",
+      "name": "Oppo A5x",
+      "brand": "Oppo",
+      "color":"blue",
+      "price": 13998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5NDSkotJlFal1CPeEP0EFYKqdMHxXnhbW0e34XkVQ0MBmPj2v2y-wfuDPpK-W1jhbtZqgfvuBkakiPQjVHeR7r1zvegp3WWjGKdBJqB0",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"191",
+      "name": "Oppo Reno13",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 37999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCYUDJjAClLxmJrouiYOocYp5xAec2ANmS1s4XBeW68WQrXJlpxuCEJ9IE05piZrQCH5Ss98tiP_l4gl4GN1dFu46XLKI8XWtaNaGH2oMFDYBqA0Gws8v0",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"192",
+      "name": "Oppo Find X8 ",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 69999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzb7jzmlsY5VwZY7iO6LC2o3CqUcuC-7eXnL3SAIndU_ZIt2pg1kGHag_JT4TjuyNdwOvujETm2a8CQ3Y9v3GEtW4fzq64UCKlQVdS2uA4FVDuk2zyzXf5",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"193",
+      "name": "Oppo A5 Pro ",
+      "brand": "Oppo",
+      "color":"sky blue",
+      "price": 17998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR28NU-3sRBSaWJVvl6SQke8o1Ka-fQO1AktS1JLV_SnxPNoyAKNgnBJwEexz9umJxGW0Y5OgShdmhOnjw62dy280p2kan__ZPcYWIdM_MvkuqZLQ44J-IVlA",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"194",
+      "name": "Oppo Reno 11 Pro ",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 38990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwtD_jYguDEv5189giPKUmesTlpjJJ6Uz8t6Z4KVOEkkBlatAskinxgefIazgPbfaN5vfycq27Fnua1UYy5lhNqEBVYvd7NwZRBWCLBiekgEYindOeH5Pzdg",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"195",
+      "name": "Oppo F19 Pro Plus ",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 11498.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxzXSD3B7IrIfft_EdpOUkKGuEPDjiL9P0FhHzAODxM6zwv3yt5zwMo_odmP8Jf9-yWXPqTRL833wz8cDQ4a6LRHeUEbHAZxs99ifDhw4zJMa6rnCBbT3R",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"196",
+      "name": "Oppo Reno 8 Pro",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 44999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqky_2FFm6KPm8Qmbmnh5-kxcJlSPekHZ30f_S7-iQoDDP-6vnOMxphX1pfNez4xp9sZwqrg4620W93WCHhMi3rmIjlovpIFcIZvGUaUI",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"197",
+      "name": "Oppo Find X8 Pro ",
+      "brand": "Oppo",
+      "color":"black",
+      "price": 85990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRacL0ZQjg97DMaSMSaPAiiaXu4gFkfYBJPQxMRsFMIcM_ZIpwrCiS398x-U-NRdCyfLv5uvbXngveHvOha-xbgToigajltJyXNOHzE0VbuDFyFeGa_QpXD",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"198",
+      "name": "Oppo K12x  ",
+      "brand": "Oppo",
+      "color":"purple",
+      "price": 15900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2mx23HTvTb4xWbBi4y0WKeTxOkPDfwTdWOLiykFbDJZ8fOHUbPLUSnR6QdPr5jQiAZ64PInX_eAJkEakdhO563DJzxG0y",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"199",
+      "name": "Oppo F29 Pro",
+      "brand": "Oppo",
+      "color":"black",
+      "price": 29499.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSSRBbNavSx7zmXMWQogZfH2i0aNKA_LwEA_go1m3_eO5m1zaXMzEPAfB0pnlsxE-SstVjsH2blsFdT-g9tn6vPgpqPvVjP3DEt40vXdg3lDoAKflN4IQO2",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"200",
+      "name": "Oppo Reno13 ",
+      "brand": "Oppo",
+      "color":"sky blue",
+      "price": 37999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCnjWIN60zJ0Z8KbPfsekCyE0h_vBuqIOx5GAfcJmP0spv69bnFA3OEhKMW7j3Tu44ZaINdS8q7nW2SkFu_S5f3Toh701fAIkx4mJsQYgsLEfpLlBzaNnu",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"201",
+      "name": "Oppo F27 Pro+ ",
+      "brand": "Oppo",
+      "color":"pink",
+      "price": 18900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRUBLL70ELAv7PTYH403lrdeNzjSfd-jDn6czV42cvYrpJ7yXB3HUUQU6flmes4snPl0uC3jEoUQqO9nab5W3Gs5NNpXs2dTwwZbX4ErQu0ugMF4irZG0Rv",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"202",
+      "name": "Oppo Reno13 Pro ",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 49999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSB0p3nPCUKcZxWiChCeP4KfEnZ8sXkZWyv3z8FLFvz0aISbIlqiDgKHcz9peRqF6mepduDcdwFQ-ZqrUWT46enmn1hYJHJ9y6b7q9pz1K1jRX8ToFo9RmJdQ",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"203",
+      "name": "Oppo F27",
+      "brand": "Oppo",
+      "color":"green",
+      "price": 18990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-bHGSPDGOvHZ_qDgTRPRMPDGDm8jTXEuX4phnjzpC_XIgz7Yf3MaweeQ_yfqZGlml3ox55by9Jbwz-LSDDgmMB0Hn2IvztS2nad-TNCzzn1O8gwLPQpcV",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"204",
+      "name": "Oppo F29  ",
+      "brand": "Oppo",
+      "color":"sky blue",
+      "price": 25999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2HmbUkFGDM9rCYePw4jDkDiyaUARwk-ZZvtm7qtgd-XaY_2PNpZRTaKMQwhWf1iFXfoTxjPxIbg_NWXKk52tO-f4VpAM3GprsCgJX6k2PLHRxdzxMC2yv",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"205",
+      "name": "Oppo F25 Pro",
+      "brand": "Oppo",
+      "color":"sky blue",
+      "price": 22119.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuYLYdh-8jarJW0hwtWRGATtZ7EeD_SjVUCgS_KZ-HgtUNMs87ZjxUefC2yOG8FiIRZ3nRZeV8yXundyLLpxzmxxq7HIFYNj0PFbO_M4pfdekFV0ZeeM1Jew",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"206",
+      "name": "Oppo A3",
+      "brand": "Oppo",
+      "color":"purple",
+      "price": 13999.00,
+      "image": " https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsPLu4sJoAbNc589mPjO-mUa7encFX5_mQZj5M7L23WdV_LR2sQ65ewt1xvPj3QCNom1JDzBJhvFq6ogAyH3ElvqWeWkFmShhhlix78Z-2bDLrbbof-10O",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"207",
+      "name": "Oppo Reno8T ",
+      "brand": "Oppo",
+      "color":"white",
+      "price": 38999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMtgIrUY2DUwb4euOWyBlmv_zpPtabPfuV9RydenzK0obJYsRJW7oLQTDPBNdmAaPphA9-G6bm_qdtE0HabpqKVW74LAulpH_J3mOLaNk",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"208",
+      "name": "Oppo A77",
+      "brand": "Oppo",
+      "color":"black",
+      "price": 91998.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScofahRg9pmUdHHgTq0eZRZ_hV_-iY-YbLss0_dFwDoSknlVcWO2GqkiM8Zpien-sDv45KlUo1_NvgdQSMMNCU5fyYn1-aT4__EXdctrbq",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"209",
+      "name": "Oppo Reno 11 F ",
+      "brand": "Oppo",
+      "color":"sky blue",
+      "price": 31999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ41r3eBCirYe9eyRF70Y1qSvKHYPhBUuqilmD1Tv6enrdYvzz3AqLFPmYI7GMY63_p3CFbMzEAHWcGxL-1rN_mtH7BBNHnIj7U3B3l25k",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "asus" : [
+    {
+     "productId":"210",
+      "name": "Asus Rog  ",
+      "brand": "Asus",
+      "color":"black",
+      "price": 110998.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWZjeGgCQI7R5_AAEIoI3t9sgAyrfNZJMfcHLJV3qcXwzx8YJEO0AWv-BMfTvLI7rDoR2kM289mWDWvJl2t8g6nHAWBDq0KwBNqlivlbY",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"211",
+      "name": "Asus Zenfone 12 Ultra ",
+      "brand": "Asus",
+      "color":"white",
+      "price": 80999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDeoyGkoDmy3MmWAF0xyjSnG7Gwbni2GuyBotxP1-6lq1C4rk89jYR4vn2roTWLQYGov27FOeGMMgfGXki9-fbMTlpcLk9WfvB62rqQNF8",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"212",
+      "name": "Asus Zenfone 9",
+      "brand": "Asus",
+      "color":"white",    
+      "price": 18990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTQOruSs9RFDLfKSuZd6XtcCFcBOTSUH7acOhLCeFt1FEQznqlR1r5AQQyIxgkqMNEdTGT8WZXiVyom_phLl3rKw5R_4ab3482GmdfxUFzJ5B3bNpPv_CRS",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"213",
+      "name": "Asus Rog 5 ",
+      "brand": "Asus",
+      "color":"black",
+      "price": 24298.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQw07F1TaL1oMQlp3IegEuvakeb_mXdbGw27P-2xaTsRp-DhcBelI10vhrX4d9wJYjOZzaOjhrgEeX-ubZox1kSosdIY-j9qvaCcZ5O6j7ENTtmTL7QO_ic",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"214",
+      "name": "Asus Zenfone 10",
+      "brand": "Asus",
+      "color":"red",
+      "price": 90590.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWQfrKGA0YbAAb1rKJSV_62ISAOp_Qjv7mIUidaqGGLDHOtGwtaTGNXgdXvhu9iKwKKgCHTtZhPlckCFe-DB4KVL6dDQcA6ClL01BFddg",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"215",
+      "name": "Asus Rog Phone 8 Pro",
+      "brand": "Asus",
+      "color":"black",
+      "price": 94998.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWQfrKGA0YbAAb1rKJSV_62ISAOp_Qjv7mIUidaqGGLDHOtGwtaTGNXgdXvhu9iKwKKgCHTtZhPlckCFe-DB4KVL6dDQcA6ClL01BFddg",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"216",
+      "name": "Asus Rog 6",
+      "brand": "Asus",
+      "color":"white",
+      "price": 44999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmMv-2vAxw3QjTh2IR_Pj8IqwSBJuCqjKqz8qwQuz8v8hXwAsECrN02FSphfUXhzDLgIeHtzz51i8GJ3LVja5Mipu5nGKPUgj85kkIKRWvCF7ip7sxTGRK",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"217",
+      "name": "Asus Zenfone 12 Ultra",
+      "brand": "Asus",
+      "color":"black",
+      "price": 88090.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpXHVv7UuSCDhZ1aqBfVEyxRYKAfXUVXY3ihfEEbjto6uxubkCH_giOrbKa76zM-1g8sKceWoKztwDYCvf0g1isuDxHOY0Ku3tcXE_chNT",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"218",
+      "name": "Asus Zenfone 10",
+      "brand": "Asus",
+      "color":"black",
+      "price": 129900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhHx8hr_syc5AOHK61_nOpCm-Dnq3j15YRMB0hoVqD5KpBAtFZts5hzIp8TN46jCdXAEvJY5NZmD-HukazGFOjzT2ZDlsZbn4foLm1Axk",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"219",
+      "name": "Asus Rog 6",
+      "brand": "Asus",
+      "color":"black",
+      "price": 44999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmMv-2vAxw3QjTh2IR_Pj8IqwSBJuCqjKqz8qwQuz8v8hXwAsECrN02FSphfUXhzDLgIeHtzz51i8GJ3LVja5Mipu5nGKPUgj85kkIKRWvCF7ip7sxTGRK",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"220",
+      "name": "Asus Rog Phone 7",
+      "brand": "Asus",
+      "color":"black",
+      "price": 48998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYu8u8A2tm6tH3by9r6KP-Nr1B_dcj3nojQB2JE_9FHHQK0O6SBdJnSWl-n-Cy__JSRn_1yjE-j2-bU8rrXGMJbe5_qYtyLBlJv9HsB-zN",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"221",
+      "name": "Asus Rog Phone 9",
+      "brand": "Asus",
+      "color":"black",
+      "price": 919400.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4yef1nKW63Hi3QGhZ2xM0_gtLBzMSGOn5zUn-XWKZCM5ltOPkf1ATB1KhE_y7HviEdu_tR6DlINWgRuTUu5_XVcsy6HANm16lnG3n7xI",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "12MP", "battery": "2018mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"222",
+      "name": "Asus Rog Phone 9 Pro",
+      "brand": "Asus",
+      "color":"black",
+      "price": 158999.00,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQA0EpMIcqWcB9sXxbX5pRkwg98OgDNWHaFk3mHEm5GOtny0J5CWjwO2WSQBn5JOXpsV87dq83Bk2UkiE8yF3_eZsIzlfruzLDx4mnNWZdxGs6gUywyjaO4",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"223",
+      "name": "Asus Rog 5S",
+      "brand": "Asus",
+      "color":"black",
+      "price": 24990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRw9Pm45EEF6Bi0eCC83hmf-q3eqLQNjU_HjHl4qkQV4GoCwg3BFMbca2ohtUuTPqKTLO0zSFUp6iBK3nM3XUaKqHibKf8Ay5X8elJfuUY",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"224",
+      "name": "Asus Rog Phone 8 ",
+      "brand": "Asus",
+      "color":"black",
+      "price": 68599.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKr8SvQ_YbLM2Crw_ZwgEw5-7iVQtP7lVvyioDmP_iuRPuKVOHpTrtahcjzTubFnuYxMGoa4ztz57NpoNnWMmiKRNOgk17lHjP-kC4Dr7q5rSqwWSaVBj_",
+      "specs": { "ram": "12GB", "storage": "256", "camera": "108MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"225",
+      "name": "Asus Rog 8",
+      "brand": "Asus",
+      "color":"black",
+      "price": 68719.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTARVhzWNxgI3IZyBQBntJGllqkYWxoUGCVz6OJYmu6-NyRI_mF8TH0ABD34oOlTeh52c0FUIpaLtJXvZ11zLlbvCcMWcZcbvh_RKYcEDA0",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"226",
+      "name": "Asus Rog 7",
+      "brand": "Asus",
+      "color":"black",
+      "price": 39999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL8tHZFjWDA6BDTLitHLWC1yUwyL-HsTxFarKc0ig3o0D8biNadD1T6tvzpkeWyI0Ykp6aiCpsS1kptUymxJJYDkiXKphMbVeUlXSR39bC",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "64MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"227",
+      "name": "Asus Rog Phone 9 Pro",
+      "brand": "Asus",
+      "color":"black",
+      "price": 94999.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzVeyaoxd61aXt7dByWzwwMAMCyVoPFfCFU4LwOxvWdctwDAwWeTfJecti7Hw5DDgswyIzopUXWsi_Ko5rNDO5PNqZXFaBBl1TQniu91To",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"228",
+      "name": "Asus Rog Phone ",
+      "brand": "Asus",
+      "color":"black",
+      "price": 14998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfNiuaOnTCKMSIEMvfPUA59cfA8W5eyfxnT6ddnroCqy2u9cAC-1p_iO3B6FaPLsaq-ezTUUATbAf4NUooNiIJ9yt1atlav1-T3FQMcdzgoHRNLmkICCVgwg",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "64MP", "battery": "4500mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"229",
+      "name": "Asus Rog 8 Pro",
+      "brand": "Asus",
+      "color":"black",
+      "price": 145999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkthMUGxzgsHCxsdoq5vbW9NcU4twr7vvkMv-XwSjE00RAIpFXFgS2S8bZE25OZntMt9NpudVGIjzC-Nam886-MpRBsR58juEPSxeJuTHelBs4vZ4PuLqI9Q",
+      "specs": { "ram": "4GB", "storage": "64GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    }
+  ],
+
+  "nothing" : [
+    {
+      "productId":"230",
+      "name": "Nothing Phone ",
+      "brand": "Nothing",
+      "color":"sky blue",
+      "price": 17998.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQc9mZMtS0B3H3IrQ_OUxZ0PLHWG-eO0kjEk8n0lUdGW___pBML1bkvqzlMuoMtLQ5Mbw72WNraslZZ8IbGBSV_LgFaYrYReMAaHBwCc6eu5foZtVTb3aO7jw",
+      "specs": { "ram": "6GB", "storage": "256GB", "camera": "48MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"231",
+      "name": "Nothing Phone ",
+      "brand": "Nothing",
+      "color":"black",
+      "price": 26999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIVoJO3WLmB09evs2vs8bfECFpaQu1AhX20gFWZNHDAHgZKg9SWMZYfuOYtOYMQfrq8yhzF0Z0JibYsWZftqKdIcSW65_GHDkTUbvdgdjjyh85aFxcAY7c",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "3900mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"232",
+      "name": "Nothing Phone Pro",
+      "brand": "Nothing",
+      "color":"black",
+      "price": 31990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSekpSVqh6K0x2-iEmIwFQ1KZQRFZetorKgLkRsTrb3AUT2wmWyenNdov38KudMFozTPwWMxrqUUv6h2hEHpFnZewv0zwnRW9hqU-BNJUorbf613bsU4d3tQQ",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"233",
+      "name": "Nothing Phone 2A",
+      "brand": "Nothing",
+      "color":"blue",
+      "price": 34998.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSumuuB-gaHcn2P3BNQNwEJrIktecnrhxXbcbMhlxPg548nfvHMYMudGFW7cIgfvxxH873K52qnq98IJtzH4JraYuRj37XqKNJ2F5ok8rtZKo7rBx5jZUakKw",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4355mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"234",
+      "name": "Nothing Phone 1",
+      "brand": "Nothing",
+      "color":"blue",
+      "price": 15990.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyrrY6xWXrDtGuP20E4p2vdYPyEFtXXGU2Jl21DpXlW8NvxzRE7GQPXntQSQgfm48KUG5hX-qVib3baW1hiJMHwlrZ5sPwjOgN0uXY8k2uL2qFXTtV4-oE",
+      "specs": { "ram": "6GB", "storage": "128GB", "camera": "48MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"235",
+      "name": "Nothing Phone 2",
+      "brand": "Nothing",
+      "color":"black",
+      "price": 18498.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbGmadurlhkgHF5p_fWyGaD3_0gO_WA9MlpakBxtR6uz49AT0KQr1TA4Mt9kRrZYVtOCdSGyepK2J4c9O8fVYusfHss9FFQwecbxQNWh9XT9ALgu5jtFfwXw",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "5000mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"236",
+      "name": "Nothing Phone 2a",
+      "brand": "Nothing",
+      "color":"white",
+      "price": 23999.00,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbA_m7ZcbS3ghPe7D9LDTTX9dCkgOl32GLQjt0RutZURIwga1mtkMa8QynLSJqTyhI4djcB73QMzFoDraFDxL90XTpgpBVgyW-uX3Ldbzy",
+      "specs": { "ram": "8GB", "storage": "128GB", "camera": "50MP", "battery": "4400mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"237",
+      "name": "Nothing Phone 2a Plus",
+      "brand": "Nothing",
+      "color":"white",
+      "price": 29990.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTclbb43FCFZs3jriWVR8MHtUw4gSdQNH0s7OGpifWOx__o1ZCgUDDQ4bukiFjZvGU6uxyM4xLJwN2UhtO_V3S_S4Hsy8v9DYQPdWEMb0nAbwIYHqp1iwWyuQ",
+      "specs": { "ram": "8GB", "storage": "256GB", "camera": "50MP", "battery": "4600mAh" },
+      "quantity":1
+    },
+    {
+     "productId":"238",
+      "name": "Xiaomi Galaxy A56 ",
+      "brand": "Xiaomi",
+      "color":"blue",
+      "price": 44900.00,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSumuuB-gaHcn2P3BNQNwEJrIktecnrhxXbcbMhlxPg548nfvHMYMudGFW7cIgfvxxH873K52qnq98IJtzH4JraYuRj37XqKNJ2F5ok8rtZKo7rBx5jZUakKw",
+      "specs": { "ram": "12GB", "storage": "256GB", "camera": "64MP", "battery": "4700mAh" },
+      "quantity":1
+    },
+    {
+      "productId":"239",
+      "name": "Nothing Phone 2a",
+      "brand": "Nothing",
+      "color":"blue",
+      "price": 21499.00,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1zaHybXLssqFbV6zzgrFj5oqN8LSdjNf_UKjlR_klfB9a6DxZa59NSWPLXHKBoLzgWc9ZpD4hP4xg9NYaA9hqzjecJ5Tzc1ehARiNS6Q",
+      "specs": { "ram": "16GB", "storage": "512GB", "camera": "50MP", "battery": "6000mAh" },
+      "quantity":1
+    }
+  ]
+}
