@@ -18,7 +18,7 @@ const Cart = () => {
     const fetchCart = async () => {
       try {
         const userId = localStorage.getItem("userId");
-        const res = await axios.get(`http://localhost:8081/cart/${userId}`);
+        const res = await axios.get(`https://my-mobile-galaxy.onrender.com/cart/${userId}`);
         const normalizedItems = (res.data.items || []).map(item => ({
           ...item,
           quantity: item.quantity || 1,
