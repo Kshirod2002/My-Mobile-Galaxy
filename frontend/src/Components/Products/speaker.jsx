@@ -63,7 +63,7 @@ const Speaker = () => {
       };
   
       try {
-        const res = await axios.post("http://localhost:8081/add-to-cart", {
+        const res = await axios.post("https://my-mobile-galaxy.onrender.com/add-to-cart", {
           userId,
           product: productToSend,
         });
