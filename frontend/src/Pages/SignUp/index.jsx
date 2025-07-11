@@ -29,7 +29,7 @@ export default function Signup() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post("http://localhost:8081/signup", form);
+      const res = await axios.post("https://my-mobile-galaxy.onrender.com/signup", form);
       
        if (res.data && res.data.token && res.data.userId) {
       localStorage.setItem("token", res.data.token); 
