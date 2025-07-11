@@ -23,7 +23,7 @@ const sessionOptions = {
 };
 
 app.use(cors({
-  origin: "http://localhost:5173", 
+  origin: "https://my-mobile-galaxy-shop.onrender.com", 
   credentials: true
 }));
 
